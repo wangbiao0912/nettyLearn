@@ -24,7 +24,7 @@ import static io.netty.handler.codec.http.HttpResponseStatus.OK;
 import static io.netty.handler.codec.http.HttpVersion.HTTP_1_1;
 
 /**
- * @author
+ *
  */
 public class HttpHelloWorldServerHandler extends SimpleChannelInboundHandler<HttpObject> {
 

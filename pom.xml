@@ -12,6 +12,7 @@
         <module>netty-first</module>
         <module>netty-http</module>
         <module>netty-springboot-protobuf</module>
+        <module>netty-im</module>
     </modules>
 
 </project>

@@ -4,7 +4,7 @@ import com.alibaba.fastjson.JSON;
 import com.after00.netty.serialize.Serializer;
 
 /**
- * @author
+ *
  */
 public class JSONSerializer implements Serializer {
     @Override
